@@ -1,11 +1,7 @@
 # Exercise04a-StateMachines
 
 ## Implementation
-
-* Added animations for -
-** Idle
-** Walking
-** Jumping
+Added animations for idle, walking, and jumping
 
 ## References
 
