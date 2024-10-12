@@ -1,6 +1,7 @@
 # Exercise04a-StateMachines
 
 ## Implementation
+
 * Added animations for -
 ** Idle
 ** Walking
